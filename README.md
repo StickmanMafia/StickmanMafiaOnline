@@ -1,71 +1,113 @@
-Stickman Mafia Online
-Unleash chaos and strategy in Stickman Mafia Online! 🎮 Built on Unity, powered by Solana, and packed with thrills. Join the ultimate stickman showdown today! 🚀
+# Stickman Mafia Online
 
-1. Introduction
-Welcome to Stickman Mafia Online! Dive into an exciting blend of classic Mafia gameplay and modern blockchain technology. Our game features iconic Stickman characters navigating a world where deception, strategy, and skill reign supreme. Now available on Google Play and Telegram, our game has already captivated early testers. Jump in and experience the madness!
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/TWjdL9C/stickman-mafia.webp"
+                alt="144796728"
+                width="300px"
+              />
+      </a>
+</p>
 
-2. Why Stickman Mafia Online?
-The Problem:
-Traditional Mafia games are fun but lack modern engagement tools. They don’t leverage the excitement of real-world rewards, nor do they allow players to truly own their in-game assets.
+## Overview
 
-Our Solution:
-Stickman Mafia Online redefines the Mafia genre by integrating NFT rewards, blockchain security, and real-world tournaments. We’re making Mafia games exciting again with daily tournaments, betting systems, and cross-platform playability.
+Welcome to Stickman Mafia Online, a blockchain-integrated social deduction game built on Unity and Solana. Stickman Mafia brings the classic Mafia gameplay to the digital world, allowing players to strategize, deceive, and collaborate in a virtual setting. Our mission is to provide a seamless and engaging Mafia experience that connects traditional game mechanics with the power of blockchain technology, offering unique rewards and opportunities for all players.
+Game Type: Social deduction game, built with Unity and Solana blockchain for seamless integration of crypto elements.
+Platform: Android and Desktop (cross-platform Unity experience).
 
-3. Game Overview
-Gameplay:
-Stickman Mafia Online plunges players into different chaotic scenarios via the Multiverse Portals. Players take on roles in immersive locations, including:
+## Game Features
 
-Raft of Doom: Watch out for the lurking shark that can devour players at any moment.
-Volcanic Vortex: Don’t let the lava swallow you alive as you strategize your way to victory.
-Skyline Snatch: Beware the stork that swoops in to carry players off the skyscrapers.
-Roles:
-Commissar: Investigate and protect citizens.
-Mafia Boss: Manipulate and eliminate.
-Maniac: Go solo and cause chaos.
-Doctor, Witness, Citizen: Each with unique abilities and crucial to the team’s success.
-Rules:
-Day/Night Phases: During the night, mafia and maniacs strike. By day, players discuss and vote on who to eliminate.
-Survival & Strategy: The key to winning is a mix of strategic bluffs, alliances, and timely actions.
-4. Timeline
-Q1 2024: Concept and initial development on Unity.
-Q2 2024: Integration with Solana blockchain, MVP release, and early testing.
-Q3 2024: Public release on Google Play and Telegram. First official tournaments launched.
-Q4 2024: Multi-chain integration, expansion to new gaming platforms, and introduction of advanced tournament features.
-5. Technology
-Unity:
-Built on Unity, our game leverages powerful mobile optimization tools to deliver seamless gameplay across devices. Realistic physics, dynamic environments, and user-friendly interfaces make Stickman Mafia Online a standout experience.
+- Classic Mafia Gameplay: Play the well-known game of Mafia in an immersive digital environment. Engage in rounds of deception, discussions, and vote-based eliminations as either a member of the Mafia or an innocent Townsperson.
+- Blockchain Integration: Powered by the Solana blockchain, enjoy a unique gaming economy that rewards players for achievements and contributions to the game’s ecosystem.
+- Play-to-Earn Mechanics: Win rounds, complete challenges, and participate in tournaments to earn cryptocurrency rewards, emphasizing both skill and social strategy.
+- Tournament SDK: Organize and participate in community-driven tournaments with rewards. Our open-source Tournament SDK empowers developers within the Solana ecosystem to create unique events that boost engagement and foster competition.
+- NFT Assets: Players can earn, trade, and collect in-game NFTs, including exclusive character skins and accessories that enhance the visual experience.
+- Multiplayer Social Experience: Engage with other players through in-game chat, discussions, and decision-making processes, bringing the social aspect of Mafia to life.
 
-Solana Blockchain:
-We chose Solana for its speed, security, and cost-effective transactions. Our tournament system and NFT economy are built on its robust infrastructure, ensuring that players experience minimal delays and maximum rewards.
+## Solana Program: Multiplayer Mafia
 
-Tournament SDK:
-Наш передовой SDK обеспечивает беспроблемное создание, управление и проведение турниров, предлагая игрокам плавную и конкурентную среду.
+### This Solana program manages a multiplayer game where four players deposit funds into an escrow account. After all players deposit and somebody/group of people won, money will be transferred to the winner/winners.
 
-6. Get Started!
-Installation:
-PC (Windows):
+### Key Features:
+- Deposits: Each player sends a specified amount to the escrow account.
+- Winner Payout: The total deposited amount is transferred to the winner.
+- Future Integration: The winner logic will be updated to use a game API.
 
+## Gameplay
+
+Players join a virtual table where they are randomly assigned roles as either Mafia Members or Townspersons. The goal for the Mafia is to eliminate all Townspersons without being caught, while the Townspersons must work together to identify and vote out the Mafia members.
+
+## Highlights:
+
+- Role-Based Gameplay: Players take on unique roles such as Mafia, Doctor, Detective, and more, each with specific abilities that affect the outcome of the game.
+- Vote and Discuss: Use the chat to discuss with other players and vote on suspects. Use deduction and persuasion to ensure your survival.
+- Tournament Play: Participate in organized tournaments to earn cryptocurrency rewards, with fair and verifiable outcomes powered by smart contracts.
+
+## Technology Stack
+
+- Unity: Our core engine for creating an engaging 3D social experience with optimized performance across mobile devices.
+- Solana Blockchain: High-speed blockchain used for token transactions, NFT ownership, and secure in-game trading.
+- Web3 Integration: We leverage Web3 technologies to connect players’ wallets, enabling seamless on-chain activities.
+- Rust & Python: Backend services that support blockchain interactions, tournament logic, and real-time player data.
+- AWS & Docker: Scalable cloud services for backend support, hosting, and continuous deployment to ensure smooth performance.
+- Tournament SDK: Developed for community use, this SDK simplifies organizing decentralized tournaments with verifiable rewards, making it accessible for beginner developers to create engaging events.
+
+## Game Architecture
+
+- Client-Server Model: The game follows a client-server model where Unity clients communicate with Solana-based backend services.
+- WebSocket & NativeWebSocket: Real-time game data is exchanged via WebSocket connections, ensuring smooth multiplayer interactions.
+- AWS Lambda Functions: For handling in-game blockchain transactions efficiently and scaling during peak load.
+- Smart Contracts: Solana-based smart contracts facilitate secure asset transfers, NFT minting, and tournament rewards distribution.
+
+## Installation & Setup
+
+### Clone the Repository: Clone the repository from GitHub:
+- git clone https://github.com/StickmanMafia/StickmanMafiaOnline.git
+- Unity Setup: Ensure you have Unity 2021.3 or later installed. Open the project in Unity Hub.
+- Dependencies: Install the required dependencies using Unity's Package Manager, including Web3 libraries and Solana SDK.
+- Build & Run: Once setup is complete, build the game for Android using Unity's build options.
+
+## How to Play
+
+### Installation:
+
+PC (Windows): [here](https://drive.google.com/file/d/11VdWUYANTvzBgSbaUhtSjWrxvYfFo9ks/view?usp=sharing)
 Download from the release page.
 Extract the file.
 Run StickmanMafia.exe.
-Android:
 
+Android: [here](https://drive.google.com/file/d/1oUON4kwreyE2BvX3TO4zbaYlQ-Gd92eU/view?usp=sharing)
 Download the APK from Google Play.
 Install and launch the game.
-Telegram:
 
+Telegram: [here](https://t.me/mafia_stickman_bot)
 Join via our Telegram bot.
 Follow the bot's instructions to start playing.
-7. Contributing
-We’re open to contributions! Follow these steps to contribute:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/YourFeature.
-Commit your changes: git commit -m 'Add feature'.
-Push to the branch: git push origin feature/YourFeature.
-Create a pull request.
-Join the stickman revolution and experience a Mafia game like never before. Stickman Mafia Online is where strategy meets chaos, and the rewards are endless!
-License
-This project is licensed under a proprietary license - see the LICENSE.md file for details.
+- Create an Account: Connect your crypto wallet to create a game account.
+- Join a Game: Enter a game room and get randomly assigned a role.
+- Engage in Rounds: Participate in discussions, vote on suspects, and use your role abilities to influence the game.
+- Earn & Trade: Win rounds to earn rewards, and trade NFTs in the marketplace for real value.
+
+## Business Model
+
+- Stickman Mafia Online follows a play-to-earn model, enabling players to earn Solana-based tokens through in-game activities, tournaments, and trading NFTs. Our Tournament SDK is also available to the community, allowing developers to create new revenue opportunities by hosting and monetizing tournaments.
+- In-Game Purchases: Players can buy NFTs, exclusive character skins, and role-specific abilities.
+- Marketplace Trading: Trade your earned NFTs and tokens in a decentralized marketplace.
+
+## Community
+
+### We believe in building a vibrant community of players, developers, and blockchain enthusiasts.
+
+- [Telegram](https://t.me/StickmanMafia): Join our Telegram to connect with the community, share feedback, and participate in events.
+- [Twitter](https://x.com/StickmanMafia): Follow us on Twitter for news, updates, and giveaways. 
+- Developer Collaboration: We encourage other developers to contribute and use our Tournament SDK to create unique gaming experiences within the Solana ecosystem.
+
+# License
+
+This project is licensed under a proprietary license - see the [LICENSE.md](LICENSE.md) file for details.
+
+We are always looking for collaborators to join our journey. Whether you’re a developer, gamer, or blockchain enthusiast, Stickman Mafia Online offers something for everyone. Dive into our virtual table, and let’s build the future of decentralized gaming together!
 
 Copyright ©️2024
