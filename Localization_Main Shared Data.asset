@@ -1,0 +1,492 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization_Main Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization_Main
+  m_TableCollectionNameGuidString: 63d7725e72f56054fbfa50d0c45e9ae9
+  m_Entries:
+  - m_Id: 3564911362048
+    m_Key: access_by_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3385466454016
+    m_Key: access_everybody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3470891843584
+    m_Key: access_friends_only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143814057984
+    m_Key: achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 483909861376
+    m_Key: auto_sign_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303421673472
+    m_Key: availability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846011850752
+    m_Key: available_rooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816102932480
+    m_Key: checking_connection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2232934629376
+    m_Key: clans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1055207620608
+    m_Key: connection_fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3068406431744
+    m_Key: create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2847224004608
+    m_Key: create_new_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788065775616
+    m_Key: create_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2603744657408
+    m_Key: custom_items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918164697088
+    m_Key: customization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31864553472
+    m_Key: enter_email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128803307520
+    m_Key: enter_password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2399997952000
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624659886080
+    m_Key: forgot_password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020635738112
+    m_Key: friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152997154816
+    m_Key: max_number_players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2083214753792
+    m_Key: perks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16533154070528
+    m_Key: players_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16616973041664
+    m_Key: players_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16214563127296
+    m_Key: players_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16314177847296
+    m_Key: players_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16457824370688
+    m_Key: players_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2264039587840
+    m_Key: rating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413002723328
+    m_Key: refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3098907410432
+    m_Key: room_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1976444551168
+    m_Key: rooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479970746368
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2323971997696
+    m_Key: shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708665835520
+    m_Key: sign_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1481315352576
+    m_Key: sign_up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2521632768000
+    m_Key: skin_colours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19266200305664
+    m_Key: chat_tile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19434635165696
+    m_Key: all_players_tile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19520500957184
+    m_Key: player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19697643192320
+    m_Key: mafia_is_quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852928909312
+    m_Key: i_suspect_quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19935669944320
+    m_Key: it_wasnt_me_quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20026300465152
+    m_Key: perks_button_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20103341441024
+    m_Key: vote_button_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21208527962112
+    m_Key: wiretapping_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21272272994304
+    m_Key: revenge_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21319228227584
+    m_Key: lie_detector_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21453269794816
+    m_Key: radio_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21498027212800
+    m_Key: active_role_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44831267520512
+    m_Key: night_starting_shortly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45086679662592
+    m_Key: select_kill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45321896230912
+    m_Key: select_check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45504658833408
+    m_Key: select_rescue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45726067752960
+    m_Key: select_paralyze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45942045048832
+    m_Key: select_witness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46146882273280
+    m_Key: mafia_win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46256252944384
+    m_Key: civilians_win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78693129420800
+    m_Key: has_been_killed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78991931637760
+    m_Key: healed_by_doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79321125781504
+    m_Key: paralyzed_cant_act
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79731358072832
+    m_Key: witnessed_by_another
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80078155710464
+    m_Key: mafia_is_dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80104869232640
+    m_Key: you_take_place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85082027491328
+    m_Key: visited_player_murdered
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227533856768
+    m_Key: perk_already_used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86885183946752
+    m_Key: its_nighttime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87226679984128
+    m_Key: mafia_awaken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87559435091968
+    m_Key: night_over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87674333855744
+    m_Key: city_awaken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88245040218112
+    m_Key: role_already_assigned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88964807950336
+    m_Key: talking_too_much
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89508914036736
+    m_Key: tracked_taken_action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89644943704064
+    m_Key: tracked_not_take_action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89928587706368
+    m_Key: player_has_radio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91415158095872
+    m_Key: you_are_dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91744889110528
+    m_Key: you_are_paralyzed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92268736708608
+    m_Key: game_host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92921341050880
+    m_Key: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93313458143232
+    m_Key: players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93780787494912
+    m_Key: join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95712214155264
+    m_Key: skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96134404407296
+    m_Key: mafia_is_quick_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96337568104448
+    m_Key: action_suspicious_quick_message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103532175196160
+    m_Key: healed_by_doctor_big
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104429915635712
+    m_Key: role_is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104559850979328
+    m_Key: role_civilian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104600456036352
+    m_Key: role_mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105282663776256
+    m_Key: role_police
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105470899945472
+    m_Key: role_maniac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105574574751744
+    m_Key: role_doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105613158154240
+    m_Key: role_witness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105757878419456
+    m_Key: role_mafiaboss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106387229540352
+    m_Key: role_is_temporary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108388352950272
+    m_Key: countdown_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1073182404935680
+    m_Key: complete_action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1933908208156672
+    m_Key: unused_perks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934040957878272
+    m_Key: player_selection_available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1953392901914624
+    m_Key: time_to_vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2550137495126016
+    m_Key: enter_nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2703391256379392
+    m_Key: dead_cant_talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2703396834803712
+    m_Key: message_field_empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2704097484898304
+    m_Key: night_message_prohibited_no_mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2704590487584768
+    m_Key: night_message_prohibited_mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601685461499904
+    m_Key: double_voice_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601942849159168
+    m_Key: disguise_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601976407785472
+    m_Key: helicopter_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3602034553421824
+    m_Key: mine_detector_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3602196323532800
+    m_Key: mine_perk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4167690554343424
+    m_Key: connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176104768569344
+    m_Key: player_disguised_mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176398629896192
+    m_Key: player_disguised_police
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5061735149371392
+    m_Key: you_tried_expose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5061834436935680
+    m_Key: but_helicopter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5213840770236416
+    m_Key: has_mine_detector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5215402892623872
+    m_Key: tried_to_kill_mine_detector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5217373598941184
+    m_Key: exploded_with_mine
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4577611338821402673
+  references:
+    version: 2
+    RefIds:
+    - rid: 4577611338821402673
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710253101078

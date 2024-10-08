@@ -1,0 +1,490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization_Main_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 63d7725e72f56054fbfa50d0c45e9ae9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31864553472
+    m_Localized: Enter your email...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128803307520
+    m_Localized: Enter your password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708665835520
+    m_Localized: Sign In
+    m_Metadata:
+      m_Items: []
+  - m_Id: 483909861376
+    m_Localized: Auto Sign In
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816102932480
+    m_Localized: Checking your internet connection...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1055207620608
+    m_Localized: Failed to connect to internet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413002723328
+    m_Localized: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1481315352576
+    m_Localized: Sign Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624659886080
+    m_Localized: Forgot Password?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788065775616
+    m_Localized: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918164697088
+    m_Localized: Customization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1976444551168
+    m_Localized: Rooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2020635738112
+    m_Localized: Friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2083214753792
+    m_Localized: Perks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143814057984
+    m_Localized: Achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2232934629376
+    m_Localized: Clans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2264039587840
+    m_Localized: Rating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2323971997696
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2399997952000
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479970746368
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2521632768000
+    m_Localized: Skin Colours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2603744657408
+    m_Localized: Custom Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846011850752
+    m_Localized: Available Rooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2847224004608
+    m_Localized: Create New Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3068406431744
+    m_Localized: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3098907410432
+    m_Localized: Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152997154816
+    m_Localized: Max Number Of Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3303421673472
+    m_Localized: Availability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3385466454016
+    m_Localized: Everybody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3470891843584
+    m_Localized: Friends Only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3564911362048
+    m_Localized: ' By Name'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16214563127296
+    m_Localized: 4 Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16314177847296
+    m_Localized: 6 Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16457824370688
+    m_Localized: 8 Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16533154070528
+    m_Localized: 10 Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16616973041664
+    m_Localized: 12 Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19266200305664
+    m_Localized: Chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19434635165696
+    m_Localized: All Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19520500957184
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19697643192320
+    m_Localized: I think mafia is...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19852928909312
+    m_Localized: I suspect...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19935669944320
+    m_Localized: It wasn't me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20026300465152
+    m_Localized: Perks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20103341441024
+    m_Localized: Vote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21208527962112
+    m_Localized: Wiretapping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21272272994304
+    m_Localized: Revenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21319228227584
+    m_Localized: Lie Detector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21453269794816
+    m_Localized: Radio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21498027212800
+    m_Localized: Active Role
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44831267520512
+    m_Localized: Night starting shortly...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45086679662592
+    m_Localized: Select a player to kill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45321896230912
+    m_Localized: Select a player to check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45504658833408
+    m_Localized: Select a player to rescue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45726067752960
+    m_Localized: Select a player to paralyze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45942045048832
+    m_Localized: Select a player to visit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46146882273280
+    m_Localized: Game over. Mafia wins.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46256252944384
+    m_Localized: Game over. Civilians win.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78693129420800
+    m_Localized: has been killed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78991931637760
+    m_Localized: was healed by doctor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79321125781504
+    m_Localized: is scared to death and cannot move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79731358072832
+    m_Localized: has been witnessed by another player.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80078155710464
+    m_Localized: Mafia is dead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80104869232640
+    m_Localized: You take his place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85082027491328
+    m_Localized: The player you visited last night was murdered. The murderer is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86227533856768
+    m_Localized: This perk is already used on selected player.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86885183946752
+    m_Localized: 'It''s nighttime. The city is fallling asleep. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87226679984128
+    m_Localized: Mafia is awakening.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87559435091968
+    m_Localized: The night is over.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87674333855744
+    m_Localized: The city is waking up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88245040218112
+    m_Localized: Your role is already assigned. You cannot use this perk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88964807950336
+    m_Localized: has been talking too much. His role is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89508914036736
+    m_Localized: The tracked player has taken action this night.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89644943704064
+    m_Localized: The tracked player has not taken action this night.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89928587706368
+    m_Localized: This player has a radio and you can't track him.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91415158095872
+    m_Localized: You are dead. Wait for the others to finish the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91744889110528
+    m_Localized: You are paralyzed. You won't be able to move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92268736708608
+    m_Localized: Gaame Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92921341050880
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93313458143232
+    m_Localized: Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93780787494912
+    m_Localized: Join Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95712214155264
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96134404407296
+    m_Localized: I think mafia is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96337568104448
+    m_Localized: is acting suspicious.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103532175196160
+    m_Localized: Healed by doctor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104429915635712
+    m_Localized: 'The role is '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104559850979328
+    m_Localized: Civilian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104600456036352
+    m_Localized: Mafia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105282663776256
+    m_Localized: Police Officer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105470899945472
+    m_Localized: Maniac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105574574751744
+    m_Localized: Doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105613158154240
+    m_Localized: Witness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105757878419456
+    m_Localized: Mafia Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106387229540352
+    m_Localized: Role is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108388352950272
+    m_Localized: Wait until all roles are assigned...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1073182404935680
+    m_Localized: Please complete the action before the time expires.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1933908208156672
+    m_Localized: You have unused perks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934040957878272
+    m_Localized: Player selection available!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1953392901914624
+    m_Localized: It's time to vote!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2550137495126016
+    m_Localized: Enter nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2703391256379392
+    m_Localized: Dead men can't talk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2703396834803712
+    m_Localized: Type in your message first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2704097484898304
+    m_Localized: Night is no time for talking! Take care before you die!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2704590487584768
+    m_Localized: Night is no time for talking! Be quiet, so you don't get exposed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601685461499904
+    m_Localized: Double voice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601942849159168
+    m_Localized: Disguise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601976407785472
+    m_Localized: Helicopter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3602034553421824
+    m_Localized: Mine detector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3602196323532800
+    m_Localized: Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4167690554343424
+    m_Localized: Connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176104768569344
+    m_Localized: has disguised! You failed to commit a murder.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4176398629896192
+    m_Localized: has disguised! You failed to check on him.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5061735149371392
+    m_Localized: You tried to expose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5061834436935680
+    m_Localized: but a helicopter suddenly appeared and drove him away from imprisonment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5213840770236416
+    m_Localized: 'has voted for you, but with a help of mine detector, he manages
+      to escape the deadly fate. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5215402892623872
+    m_Localized: The player voted for tried to explode you with a mine, but the mine
+      detector keeps you safe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5217373598941184
+    m_Localized: tried to vote but got exploded with a mine. Be careful with who
+      you vote for!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
