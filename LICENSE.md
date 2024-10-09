@@ -2,7 +2,7 @@
 
 © 2024 Stickman Mafia. All rights reserved.
 
-This software and associated documentation files (the "Software") are the exclusive property of RaceoOnLife. 
+This software and associated documentation files (the "Software") are the exclusive property of Stickman Mafia. 
 
 **Unauthorized copying of this file, via any medium is strictly prohibited.**
 
