@@ -70,6 +70,27 @@ Players join a virtual table where they are randomly assigned roles as either Ma
 
 ## How to Play
 
+### Getting Started
+- **Character Customization**: After logging in, customize your stickman character in the lobby. You can change their appearance, adjust graphic settings, and select your preferred language.
+- **Game Setup**: When ready, press the "Play" button on the right side of the screen. Choose to either "Join" an existing room or "Create" your own.
+
+### Room Creation
+- **Create a Room**: If you decide to create your own room, you can set a custom room name, define the number of players, choose the player type (friends, password-protected, or open to all), and set a bet for the match.
+- **Game Start**: Once settings are chosen, press "Play" to create the room. When enough players join, the game will begin, and roles will be distributed.
+
+### Game Modes
+- **The Raft (Current Map)**: Currently, the first available map is "The Raft," where players are randomly assigned roles. The goal of the game is to survive, strategize, and win as a team.
+  - **Night Phase**: During the night, the Mafia (or the Maniac) selects their target.
+  - **Day Phase**: During the day, the innocent townspeople must work together to discuss and vote for who they believe the culprit is, attempting to imprison them and keep the town safe.
+
+### Game Flow
+- **Role Distribution**: Once enough players have joined the room, the game starts and roles are distributed randomly. You could be a Mafia member, Maniac, Doctor, Detective, or a simple Townsperson.
+- **Day & Night Cycles**: The game alternates between night and day cycles:
+  - **Night**: The Mafia or Maniac makes their move.
+  - **Day**: Players debate and vote on who to imprison. The goal is to eliminate all Mafia members before they overpower the innocents.
+
+Stickman Mafia Online offers an exciting blend of strategy, social deduction, and player customization. Dive into the action, outwit your opponents, and ensure your team’s survival!
+
 ### Installation:
 
 PC (Windows): [here](https://drive.google.com/file/d/11VdWUYANTvzBgSbaUhtSjWrxvYfFo9ks/view?usp=sharing)
@@ -85,10 +106,8 @@ Telegram: [here](https://t.me/mafia_stickman_bot)
 Join via our Telegram bot.
 Follow the bot's instructions to start playing.
 
-- Create an Account: Connect your crypto wallet to create a game account.
 - Join a Game: Enter a game room and get randomly assigned a role.
 - Engage in Rounds: Participate in discussions, vote on suspects, and use your role abilities to influence the game.
-- Earn & Trade: Win rounds to earn rewards, and trade NFTs in the marketplace for real value.
 
 ## Business Model
 
