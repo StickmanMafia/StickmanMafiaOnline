@@ -27,7 +27,7 @@ Platform: Android and Desktop (cross-platform Unity experience).
 
 ## Solana Program: Multiplayer Mafia
 
-### This Solana program manages a multiplayer game where four players deposit funds into an escrow account. After all players deposit and somebody/group of people won, money will be transferred to the winner/winners.
+This Solana program manages a multiplayer game where four players deposit funds into an escrow account. After all players deposit and somebody/group of people won, money will be transferred to the winner/winners.
 
 ### Key Features:
 - Deposits: Each player sends a specified amount to the escrow account.
