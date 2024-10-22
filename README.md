@@ -13,8 +13,6 @@
 ## Overview
 
 Welcome to Stickman Mafia Online, a blockchain-integrated social deduction game built on Unity and Solana. Stickman Mafia brings the classic Mafia gameplay to the digital world, allowing players to strategize, deceive, and collaborate in a virtual setting. Our mission is to provide a seamless and engaging Mafia experience that connects traditional game mechanics with the power of blockchain technology, offering unique rewards and opportunities for all players.
-Game Type: Social deduction game, built with Unity and Solana blockchain for seamless integration of crypto elements.
-Platform: Android and Desktop (cross-platform Unity experience).
 
 ## Game Features
 
