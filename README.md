@@ -14,6 +14,16 @@
 
 Welcome to Stickman Mafia Online, a blockchain-integrated social deduction game built on Unity and Solana. Stickman Mafia brings the classic Mafia gameplay to the digital world, allowing players to strategize, deceive, and collaborate in a virtual setting. Our mission is to provide a seamless and engaging Mafia experience that connects traditional game mechanics with the power of blockchain technology, offering unique rewards and opportunities for all players.
 
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/Kj8Zcy4/Mafia-Screen6-1500x500.jpg"
+                alt="144796728"
+                width="800px"
+              />
+      </a>
+</p>
+
 ## Game Features
 
 - Classic Mafia Gameplay: Play the well-known game of Mafia in an immersive digital environment. Engage in rounds of deception, discussions, and vote-based eliminations as either a member of the Mafia or an innocent Townsperson.
@@ -21,7 +31,40 @@ Welcome to Stickman Mafia Online, a blockchain-integrated social deduction game 
 - Play-to-Earn Mechanics: Win rounds, complete challenges, and participate in tournaments to earn cryptocurrency rewards, emphasizing both skill and social strategy.
 - Tournament SDK: Organize and participate in community-driven tournaments with rewards. Our open-source Tournament SDK empowers developers within the Solana ecosystem to create unique events that boost engagement and foster competition.
 - NFT Assets: Players can earn, trade, and collect in-game NFTs, including exclusive character skins and accessories that enhance the visual experience.
+- Transparency and Security: All actions are recorded on the blockchain, ensuring fair gameplay. 
 - Multiplayer Social Experience: Engage with other players through in-game chat, discussions, and decision-making processes, bringing the social aspect of Mafia to life.
+- Unique Perks: Use special abilities to gain an advantage and change the course of the game.
+
+## Perks — Your Secret Advantages
+
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/T2ZhGYf/Mafia-Screen-4-USA.jpg"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
+
+Perks are special abilities that can be used during the game. They are available for purchase with in-game coins.
+
+- **100 coins — Active Role** Receive a random active role.
+- **200 coins — Walkie-Talkie** For citizens: shows whom the mafia plans to kill at night. For mafia/maniac: allows you to hide from the "Wiretapping" perk.
+- **200 coins — Lie Detector** Reveals the role of a selected player if they are actively participating in discussions. The result is sent via private message.
+- **300 coins — Wiretapping** Allows you to find out if a selected player made a move during the night. The result is sent to your private chat.
+- **400 coins — Revenge** Paralyzes for one day the player who voted against you.
+- **500 coins — Double Vote** Doubles your vote in the next voting round.
+- **500 coins — Helicopter** Saves you from being sent to jail during voting.
+- **500 coins — Mine Detector** Protects you from the "Mine" perk if you voted against its owner.
+- **800 coins — Mine** Kills a player who voted against you.
+- **800 coins — Camouflage** Hides you from night killings or commissioner checks.
+- **1000 coins — Fake Passport** The commissioner's check will show that you are a citizen, even if you are mafia or a maniac.
+- **1500 coins — Katana** Kills the player next to you.
+- **2000 coins — Bulletproof** Vest Saves you from a pistol and katana attack but not from a sniper or killer.
+- **3000 coins — Pistol** Kills any selected player.
+- **3500 coins — Killer** Kills any player, even one wearing a bulletproof vest. Available only player dead.
+- **4000 coins — Sniper** Kills any player, even one wearing a bulletproof vest. Available only when alive.
 
 ## Solana Program: Multiplayer Mafia
 
@@ -34,9 +77,37 @@ This Solana program manages a multiplayer game where four players deposit funds 
 
 ## Gameplay
 
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/HpbrNCZ/Mafia-Screen-3-USA.jpg"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
+
 Players join a virtual table where they are randomly assigned roles as either Mafia Members or Townspersons. The goal for the Mafia is to eliminate all Townspersons without being caught, while the Townspersons must work together to identify and vote out the Mafia members.
 
+## How to Earn:
+
+- ** Earn coins for successful games and completed tasks.
+- ** Log into the game every day to receive additional rewards.
+- ** Join special events and tournaments to earn rare rewards.
+- ** Buy and sell NFTs on the in-game marketplace.
+- ** Place bets with other players; the winning team shares the pot.
+
 ## Highlights:
+
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/Fz6DV8m/Mafia-Screen-1-USA.jpg"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
 
 - Role-Based Gameplay: Players take on unique roles such as Mafia, Doctor, Detective, and more, each with specific abilities that affect the outcome of the game.
 - Vote and Discuss: Use the chat to discuss with other players and vote on suspects. Use deduction and persuasion to ensure your survival.
@@ -68,6 +139,16 @@ Players join a virtual table where they are randomly assigned roles as either Ma
 
 ## How to Play
 
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/6DVq5TB/Mafia-Screen-2-USA.jpg"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
+
 ### Getting Started
 - **Character Customization**: After logging in, customize your stickman character in the lobby. You can change their appearance, adjust graphic settings, and select your preferred language.
 - **Game Setup**: When ready, press the "Play" button on the right side of the screen. Choose to either "Join" an existing room or "Create" your own.
@@ -88,6 +169,16 @@ Players join a virtual table where they are randomly assigned roles as either Ma
   - **Day**: Players debate and vote on who to imprison. The goal is to eliminate all Mafia members before they overpower the innocents.
 
 Stickman Mafia Online offers an exciting blend of strategy, social deduction, and player customization. Dive into the action, outwit your opponents, and ensure your team’s survival!
+
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://stickman-mafia.online/">
+            <img
+                src="https://i.ibb.co/VvCVNkc/Mafia-Screen-5-USA.jpg"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
 
 ### Installation:
 
